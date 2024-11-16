@@ -1,5 +1,6 @@
-package com.example.demo.example
+package com.example.demo.configuration
 
+import com.example.demo.service.MyService
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 

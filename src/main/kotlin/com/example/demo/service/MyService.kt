@@ -1,4 +1,4 @@
-package com.example.demo.example
+package com.example.demo.service
 
 class MyService {
     fun doStuff() {
